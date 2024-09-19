@@ -74,4 +74,4 @@ Also, I want to focus on optimizing my projects for mobile devices. Currently, I
 
 ## Author
 - Frontend Mentor - [@Grimm-N](https://www.frontendmentor.io/profile/Grimm-N)
-- Twitter - [@Grimm__N](https://x.com/GrimmN666)
+- Twitter - [@Grimm__N](https://x.com/Grimm__N)
